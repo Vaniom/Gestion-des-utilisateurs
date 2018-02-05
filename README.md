@@ -1,2 +1,2 @@
-# Do-Not-Forget
-Des bouts de codes, des fonctionnalités à garder sous le coude qui peuvent servir plus tard.
+# Gestion des utilisateurs
+Gestion des accès utilisateurs : inscription / connexion / deconnexion / option "remember me" / ecriture de cookie.
